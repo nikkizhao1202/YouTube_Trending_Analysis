@@ -16,19 +16,20 @@ Our project can be dvided into following sections
   <li> Data Visualiztion including bar chart, corrlection graph, box plot and WordCloud </li>
   <li> Predict the “staying power” of a trending video </li> 
       <p> 1. Machine learning model (Linear/Logistic classifcation, Random forest, Extra Tree Regression) <br/>
-          2. DNN model
-  </p>
+          2. DNN model </p>
+  </ul>
   
- ## Data Source
+## Data Source
  - [US Videos.csv](https://www.kaggle.com/datasnaek/youtube-new#USvideos.csv) 
  - Video_details.txt (which webscraped from YouTube website)
  
- ## Requirements
+## Requirements
 <ul>
   <li> Python (3.6, 3.7) </li>
   <li> Jupyter Notebook </li>
+ </ul>
   
- ## Discussion and Development
+## Discussion and Development
 
 <p> Most development discussion is taking place on github in this repo. This is my first project after learning python and basic data analysis skill in two monthes. There's a huge space for improvement. </p >
 
